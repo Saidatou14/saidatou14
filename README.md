@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Saidatou14/saidatou14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Saïdatou, a Junior Frontend Developer and Computer Science student.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- HTML, CSS (Responsive Design)
+- JavaScript
+- Angular
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- JavaScript (advanced concepts)
+- Angular best practices
+
+### 🎯 Focus
+- Building clean and functional frontend projects
+- Improving my skills through practice
+
+
+
+
